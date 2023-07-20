@@ -1,0 +1,4 @@
+
+"rules" : {
+    "react/pro-types" : "off"
+ }
